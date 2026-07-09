@@ -1,0 +1,27 @@
+{
+  "stage_id": "1013R_R223O_SECOND_CROSS_SAMPLE_VALIDATION",
+  "generated_at": "2026-07-09T23:01:37",
+  "source_sample": "E:/学校工作/教学/教学资料/三年级美术上册官方教学设计参考/第二单元 色彩的碰撞.docx",
+  "standard_id": "GOLDEN_CLASSROOM_EVENT_EXPANSION_STANDARD_V0.1_LOCK_CANDIDATE",
+  "formal_ui": false,
+  "r97b_modified": false,
+  "runtime_connected": false,
+  "provider_model_connected": false,
+  "database_written": false,
+  "files": [
+    "R223O_cross_sample_selection_note.md",
+    "R223O_color_collision_reasoning_chain_product.md",
+    "R223O_classroom_event_expansion_chain.json",
+    "R223O_teacher_manuscript_draft_v1.md",
+    "R223O_teacher_manuscript_draft_v1.html",
+    "R223O_review_ledger_sample.json",
+    "R223O_component_screen_evidence_trigger_map.md",
+    "R223O_rubric_score.md",
+    "R223O_cross_sample_validation_report.md",
+    "R223O_browser_smoke_result.json",
+    "R223O_teacher_manuscript_draft_v1_screenshot.png",
+    "README_FOR_GPT_REVIEW.md",
+    "validate_1013R_R223O_second_cross_sample_validation.py",
+    "validate_1013R_R223O_second_cross_sample_validation_result.json"
+  ]
+}
