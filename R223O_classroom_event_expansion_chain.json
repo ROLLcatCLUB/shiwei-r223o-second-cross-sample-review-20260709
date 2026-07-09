@@ -1,0 +1,347 @@
+{
+  "stage_id": "1013R_R223O_SECOND_CROSS_SAMPLE_VALIDATION",
+  "standard_id": "GOLDEN_CLASSROOM_EVENT_EXPANSION_STANDARD_V0.1_LOCK_CANDIDATE",
+  "sample": "第二单元 色彩的碰撞",
+  "archetype": "visual_language_color_perception_expression",
+  "source_anchors": {
+    "sample": "E:/学校工作/教学/教学资料/三年级美术上册官方教学设计参考/第二单元 色彩的碰撞.docx",
+    "unit_theme": "第二单元 色彩的碰撞",
+    "big_idea": "色彩是美术表现的重要语言",
+    "essential_question": "如何运用色彩表达我们的内心感受",
+    "performance_task": "举办“红、黄、蓝”色彩创想会",
+    "stage_rows": [
+      "第一阶段 发现色彩：寻找色彩、调出色彩、色彩碰撞",
+      "第二阶段 点彩游戏：捕捉色彩、揭秘点彩、玩转点彩",
+      "第三阶段 色彩表达：遇见米罗、创作梦幻季节、色彩表达"
+    ],
+    "student_analysis": "三年级学生已能简单运用明亮、对比强烈的色彩，但对色彩规律和运用表达还未形成认识体系。"
+  },
+  "formal_ui": false,
+  "events": [
+    {
+      "event_id": "r223o_color_event_01_campus_color_entry",
+      "event_name": "游园回看：把校园色彩带进课堂",
+      "section": "入场与问题生成",
+      "source_anchor": "课前：游园，寻找校园夏日的色彩；明确单元活动主题",
+      "teaching_responsibility": "让学生从生活经验进入色彩问题，知道本课不是随意涂色，而是探究色彩从哪里来、怎样变化。",
+      "student_problem": "学生容易只说颜色名称或喜欢不喜欢，不能把观察转化为可探究的问题。",
+      "task_release": "出示校园色彩照片或学生收集的色彩漂流瓶，请学生找出红、黄、蓝以及它们身边出现的其他颜色。",
+      "expected_student_responses": [
+        "能说出校园中的红、黄、蓝",
+        "能描述色彩给人的明亮、温暖、清凉等感受",
+        "能提出三原色能不能调出更多颜色的问题"
+      ],
+      "likely_misconceptions_or_failures": [
+        "只按物体名称分类",
+        "只说好看不好看",
+        "把颜色感受说成固定标准答案"
+      ],
+      "teacher_follow_up_questions": [
+        "这块颜色让你想到阳光、树叶还是操场上的影子？",
+        "如果只给你红黄蓝，能不能找回校园里更多颜色？"
+      ],
+      "teacher_scaffolding_moves": [
+        "用校园局部照片放大色块",
+        "提供色彩感受词卡",
+        "把学生问题写成探究清单"
+      ],
+      "teacher_rescue_strategy": "若学生只报颜色名，教师遮住物体轮廓只露出色块，让学生说颜色关系和感受。",
+      "screen_trigger": "校园色彩照片、红黄蓝色块、色彩问题清单",
+      "component_trigger": "image_color_spotting / color_word_bank",
+      "learning_sheet_trigger": "入场记录：我在校园里找到的红、黄、蓝和一个想研究的问题",
+      "evidence_trigger": "学生能写出或说出一个色彩观察点和一个探究问题",
+      "assessment_alignment": "对应单元评价中能收集校园色彩并分享的要求。",
+      "transition_chain": "由校园色彩观察转入红黄蓝是否能调出更多颜色的实验。",
+      "teacher_visible_note": "先把颜色从生活带回来，再把问题交给实验。",
+      "control_points": {
+        "observe": "学生是否只停留在颜色名称",
+        "ask_when": "学生说不出感受或问题时",
+        "rescue_when": "学生把任务理解为拍照展示",
+        "screen_when": "需要从物体转向色块观察时",
+        "component_when": "学生需要找色或说色词时",
+        "evidence_when": "完成入场观察句时",
+        "proceed_when": "学生能提出红黄蓝能否调出更多颜色的问题"
+      }
+    },
+    {
+      "event_id": "r223o_color_event_02_primary_color_question",
+      "event_name": "认一认：红黄蓝是不是色彩的起点",
+      "section": "三原色问题建立",
+      "source_anchor": "第一阶段：通过玩转三原色，发现间色、复色",
+      "teaching_responsibility": "建立三原色作为调色实验起点的认识，但不把课堂变成术语背诵。",
+      "student_problem": "学生可能听过三原色，却不知道它们为什么适合作为实验起点。",
+      "task_release": "让学生观察三组颜料盘，判断哪些颜色可以作为今天的实验起点，并说明理由。",
+      "expected_student_responses": [
+        "选择红黄蓝",
+        "猜测红黄蓝可以变出其他颜色",
+        "提到生活中色彩很多"
+      ],
+      "likely_misconceptions_or_failures": [
+        "认为越多颜色越好",
+        "把黑白也当作同等起点",
+        "只背三原色不做解释"
+      ],
+      "teacher_follow_up_questions": [
+        "如果先给十种颜色，我们还看得清是谁变出谁吗？",
+        "红、黄、蓝碰在一起，会不会出现新的颜色？"
+      ],
+      "teacher_scaffolding_moves": [
+        "收窄材料，只保留红黄蓝",
+        "用透明片叠色做预告",
+        "给出实验约定：少量、记录、比较"
+      ],
+      "teacher_rescue_strategy": "若学生急着混很多颜色，教师先用两色小样示范，强调一次只改一个条件。",
+      "screen_trigger": "三原色实验约定、少量取色示范图",
+      "component_trigger": "material_limit_prompt / experiment_rule_card",
+      "learning_sheet_trigger": "三原色起点记录：我选择红黄蓝，因为……",
+      "evidence_trigger": "学生能解释为什么先用红黄蓝做实验",
+      "assessment_alignment": "对应能积极参与小组活动、运用材料和工具发现色彩关系。",
+      "transition_chain": "由三原色问题进入两两相碰的调色实验。",
+      "teacher_visible_note": "术语不先讲满，让学生用实验理解起点。",
+      "control_points": {
+        "observe": "学生是否想一次使用太多颜色",
+        "ask_when": "学生只背术语时",
+        "rescue_when": "学生调色条件失控时",
+        "screen_when": "需要明确实验规则时",
+        "component_when": "需要限制材料和步骤时",
+        "evidence_when": "写下红黄蓝作为实验起点的理由",
+        "proceed_when": "学生愿意按两色一组开始调试"
+      }
+    },
+    {
+      "event_id": "r223o_color_event_03_two_color_mixing",
+      "event_name": "调一调：让两种颜色先碰一碰",
+      "section": "间色实验",
+      "source_anchor": "调出色彩：利用三原色进行间色调和，观察颜色的差别",
+      "teaching_responsibility": "让学生通过两色调和发现间色，并能看出比例不同会带来色相变化。",
+      "student_problem": "学生容易把调色当成随意搅拌，最后得到脏色或说不清变化过程。",
+      "task_release": "每组只选一组颜色：红+黄、黄+蓝或蓝+红，先少量调，再记录碰出来的新颜色。",
+      "expected_student_responses": [
+        "发现橙、绿、紫等间色",
+        "注意到同一组颜色比例不同会偏红、偏黄或偏蓝",
+        "能说出颜色从哪里变来"
+      ],
+      "likely_misconceptions_or_failures": [
+        "颜料过多导致混浊",
+        "只追求调得鲜艳",
+        "不记录比例和过程"
+      ],
+      "teacher_follow_up_questions": [
+        "这块橙色更靠近红，还是更靠近黄？你从哪里看出来？",
+        "如果再多一点蓝，绿色会像新芽还是像深草地？"
+      ],
+      "teacher_scaffolding_moves": [
+        "示范牙签头大小取色",
+        "用三格记录：原色A、原色B、新颜色",
+        "让学生把最清楚的一次圈出来"
+      ],
+      "teacher_rescue_strategy": "若调成灰脏色，教师不直接判错，而是追问加入了几种颜色，再示范少量、两色、慢慢加的做法。",
+      "screen_trigger": "两色调和步骤、比例变化对照、清亮/混浊样例",
+      "component_trigger": "color_mixing_trial / circle_best_sample",
+      "learning_sheet_trigger": "调色记录：A色+B色=新颜色；比例变化说明",
+      "evidence_trigger": "一组两色调和样本和一句比例观察",
+      "assessment_alignment": "对应能大胆尝试调色，调出三间色，并观察比较色彩变化。",
+      "transition_chain": "由间色出现转入复色和色调差异的进阶观察。",
+      "teacher_visible_note": "让学生看到颜色变化的路径，而不是只拿到结果。",
+      "control_points": {
+        "observe": "学生是否少量取色并记录过程",
+        "ask_when": "学生只说变成绿色但说不出偏向时",
+        "rescue_when": "调色混浊或重复失败时",
+        "screen_when": "需要展示比例对照时",
+        "component_when": "需要圈出最佳样本时",
+        "evidence_when": "完成调色记录和比例说明时",
+        "proceed_when": "学生能说出至少一种间色的来源"
+      }
+    },
+    {
+      "event_id": "r223o_color_event_04_compare_color_differences",
+      "event_name": "比一比：同一种新颜色为什么不一样",
+      "section": "色彩差异观察",
+      "source_anchor": "调出色彩：观察颜色的差别；进阶思考",
+      "teaching_responsibility": "把学生从颜色名称带到色彩差异观察，理解同名颜色也有冷暖、深浅和偏向。",
+      "student_problem": "学生会以为绿色就是一种固定颜色，不容易描述细微差异。",
+      "task_release": "把两组三原色调出的绿色或橙色并排展示，请学生找出更亮、更暗、更暖、更冷的变化。",
+      "expected_student_responses": [
+        "能比较深浅或冷暖",
+        "能用偏黄、偏蓝、偏红描述色彩",
+        "能开始把色彩和感觉联系起来"
+      ],
+      "likely_misconceptions_or_failures": [
+        "只说一样或不一样",
+        "只按喜欢程度评价",
+        "把冷暖理解成温度知识而非视觉感受"
+      ],
+      "teacher_follow_up_questions": [
+        "这两块绿色都叫绿，但哪一块更像春天的新芽？哪一块更像雨后的草地？",
+        "你看到的是颜色变深了，还是情绪变安静了？"
+      ],
+      "teacher_scaffolding_moves": [
+        "提供冷暖、明暗、偏向词卡",
+        "用同色系条带排队",
+        "让学生给颜色取一个画面名字"
+      ],
+      "teacher_rescue_strategy": "若学生说不出差异，教师把色块遮去名称，只问哪块更跳、哪块更稳，再回到色彩词。",
+      "screen_trigger": "同色不同偏向对照、色彩词卡、色带排序",
+      "component_trigger": "compare_color_swatches / color_word_bank",
+      "learning_sheet_trigger": "色彩差异记录：同样是……色，一块更……，一块更……",
+      "evidence_trigger": "学生能用至少一个视觉词描述同色差异",
+      "assessment_alignment": "对应能观察比较色彩之间变化，并分享自己对色彩的认知。",
+      "transition_chain": "由间色差异进入复色调和，继续探究更丰富的色彩。",
+      "teacher_visible_note": "重点不是认颜色，而是学会看颜色之间的细微关系。",
+      "control_points": {
+        "observe": "学生是否能描述色彩差异",
+        "ask_when": "学生只说喜欢哪个时",
+        "rescue_when": "学生把色彩感受说成单一标准答案时",
+        "screen_when": "需要并排比较色块时",
+        "component_when": "需要色卡比较和词库支架时",
+        "evidence_when": "写出同色差异句时",
+        "proceed_when": "学生能用视觉词说出差异"
+      }
+    },
+    {
+      "event_id": "r223o_color_event_05_complex_color_adjustment",
+      "event_name": "进一阶：调出更丰富的复色",
+      "section": "复色进阶",
+      "source_anchor": "进阶思考，发现并调出复色，揭晓色彩的基本规律",
+      "teaching_responsibility": "让学生理解颜色继续相碰会变得丰富，也可能变灰变浊，需要控制比例和目的。",
+      "student_problem": "学生可能把复色理解成越多颜色越好，导致色彩失控。",
+      "task_release": "在一块已经调出的间色里，只加入一点第三种颜色，观察它变得更沉、更新、更暖还是更冷。",
+      "expected_student_responses": [
+        "发现颜色会变灰、变深或更柔和",
+        "能意识到少量加入会改变气质",
+        "能为自己的梦幻季节选择色调"
+      ],
+      "likely_misconceptions_or_failures": [
+        "不断加颜料直到发黑",
+        "把复色当成失败色",
+        "不理解为什么要调复色"
+      ],
+      "teacher_follow_up_questions": [
+        "这块颜色虽然不那么亮了，但它像傍晚、雨天还是树影？",
+        "如果你的季节不是热闹的夏天，而是安静的秋天，需要什么样的颜色？"
+      ],
+      "teacher_scaffolding_moves": [
+        "限定每次只加一点",
+        "用季节和情绪做色彩目标",
+        "比较清亮间色和沉稳复色"
+      ],
+      "teacher_rescue_strategy": "若学生把颜色调黑，教师让其把失败样也保留，标注加入颜色太多，再重试一次少量加入。",
+      "screen_trigger": "间色到复色的变化条、清亮/沉稳色彩对照、季节色调提示",
+      "component_trigger": "stepwise_color_adjustment / mistake_repair",
+      "learning_sheet_trigger": "复色记录：我在……色里加入一点……，它变得……",
+      "evidence_trigger": "一条复色变化记录和一次调整说明",
+      "assessment_alignment": "对应能调出复色，理解色彩是表达情感的语言。",
+      "transition_chain": "由复色变化转入色彩碰撞和透明球任务，把实验色彩用于单元表现性任务。",
+      "teacher_visible_note": "让复色成为表达选择，不是失败后的脏颜色。",
+      "control_points": {
+        "observe": "学生是否控制加色量",
+        "ask_when": "学生把复色当失败时",
+        "rescue_when": "颜色失控发黑时",
+        "screen_when": "需要展示变化条时",
+        "component_when": "需要错误修补或逐步调色时",
+        "evidence_when": "完成复色记录时",
+        "proceed_when": "学生能说明复色带来的感觉变化"
+      }
+    },
+    {
+      "event_id": "r223o_color_event_06_color_collision_task",
+      "event_name": "碰一碰：把调试色彩装进透明球",
+      "section": "色彩碰撞任务",
+      "source_anchor": "色彩碰撞：将调试的色彩装进透明球中，完成活动任务一",
+      "teaching_responsibility": "把调色发现转化为可展示的单元任务成果，形成色彩创想会的材料。",
+      "student_problem": "学生容易只追求热闹好看，忘记标注色彩来源和调试过程。",
+      "task_release": "每组选择两到三块最能说明发现的色彩，放入透明球或展示卡中，并给它们取一个有感觉的名字。",
+      "expected_student_responses": [
+        "能选择代表性颜色",
+        "能用调色来源说明颜色",
+        "能把颜色和感受联系起来"
+      ],
+      "likely_misconceptions_or_failures": [
+        "全部颜色都想放进去",
+        "只起可爱名字不说明来源",
+        "作品缺少过程证据"
+      ],
+      "teacher_follow_up_questions": [
+        "这个颜色从哪两种颜色碰出来？",
+        "它更像热闹的操场、安静的树影，还是下雨前的天空？"
+      ],
+      "teacher_scaffolding_moves": [
+        "要求一球一色名一来源",
+        "给出色彩命名句式",
+        "让学生把实验记录贴在展示旁"
+      ],
+      "teacher_rescue_strategy": "若学生选择过多，教师要求只保留最能说明一个发现的三块色彩。",
+      "screen_trigger": "透明球任务要求、色彩命名句式、展示样例",
+      "component_trigger": "select_best_evidence / gallery_label",
+      "learning_sheet_trigger": "色彩创想卡：色名、来源、感受、用途",
+      "evidence_trigger": "透明球或展示卡 + 色彩来源说明",
+      "assessment_alignment": "对应单元表现性任务“红、黄、蓝”色彩创想会。",
+      "transition_chain": "由小组展示材料转入分享交流和单元评价。",
+      "teacher_visible_note": "展示不是堆颜色，而是用颜色讲清自己的发现。",
+      "control_points": {
+        "observe": "学生是否能选择代表色",
+        "ask_when": "学生只做装饰时",
+        "rescue_when": "展示材料过多无重点时",
+        "screen_when": "需要显示展示句式时",
+        "component_when": "需要证据选择和标签支架时",
+        "evidence_when": "完成色彩创想卡时",
+        "proceed_when": "学生能说出颜色来源和感受"
+      }
+    },
+    {
+      "event_id": "r223o_color_event_07_share_color_feeling",
+      "event_name": "说一说：用色彩讲述自己的感受",
+      "section": "展示与评价",
+      "source_anchor": "能结合自己的生活，感受色彩对于生活的意义，和同学们交流分享",
+      "teaching_responsibility": "让学生带着实验记录和色彩作品分享，形成色彩作为表达语言的初步认识。",
+      "student_problem": "学生容易把评价说成颜色漂亮、作品好看，缺少依据。",
+      "task_release": "每组用一句话介绍一块颜色：它从哪里来，它让我们想到什么，它可以放进怎样的画面。",
+      "expected_student_responses": [
+        "能说出色彩来源",
+        "能联系校园或季节感受",
+        "能听取同伴建议"
+      ],
+      "likely_misconceptions_or_failures": [
+        "只说我喜欢",
+        "只展示结果不提实验",
+        "评价同伴时语言空泛"
+      ],
+      "teacher_follow_up_questions": [
+        "你能不能指着记录告诉大家，这个颜色是怎么来的？",
+        "同伴说它像夏天，你觉得证据在哪里？"
+      ],
+      "teacher_scaffolding_moves": [
+        "提供分享句式",
+        "要求作品和学习单一起展示",
+        "把同伴建议写在七彩果实评价上"
+      ],
+      "teacher_rescue_strategy": "若评价空泛，教师把问题改成找证据：请找一块色彩，说出它的来源和带给你的感觉。",
+      "screen_trigger": "分享句式、七彩果实评价提示、同伴建议栏",
+      "component_trigger": "gallery_walk / evidence_based_feedback",
+      "learning_sheet_trigger": "展示评价：我介绍的颜色、来源、感受、同伴建议",
+      "evidence_trigger": "作品展示 + 调色记录 + 口头或书面评价",
+      "assessment_alignment": "对应能和同学分享对色彩的认知，并用色彩表达感受。",
+      "transition_chain": "收束第一阶段，为点彩游戏和后续色彩表达提供色彩经验。",
+      "teacher_visible_note": "让学生用证据说颜色，用颜色说感受。",
+      "control_points": {
+        "observe": "学生是否带着记录介绍",
+        "ask_when": "评价停留在漂亮时",
+        "rescue_when": "学生忘记实验过程时",
+        "screen_when": "需要展示分享句式和评价提示时",
+        "component_when": "需要画廊走看和证据反馈时",
+        "evidence_when": "完成展示评价和同伴建议时",
+        "proceed_when": "学生能用来源和感受说明色彩"
+      }
+    }
+  ],
+  "boundary": {
+    "preview_only": true,
+    "teacher_confirmed": false,
+    "formal_apply_allowed": false,
+    "r97b_modified": false,
+    "ui_modified": false,
+    "runtime_connected": false,
+    "provider_model_connected": false,
+    "database_written": false
+  }
+}
